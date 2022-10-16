@@ -1,4 +1,4 @@
-"Secret of the Knights (ZIL)"
+"Sail with Pirates (ZIL)"
 
 <CONSTANT GAME-TITLE "||Sail with Pirates">
 <CONSTANT GAME-DESCRIPTION "|Jim Gasperini (1984, 2001)||Implemented in ZIL by SD Separa (2022)|">
