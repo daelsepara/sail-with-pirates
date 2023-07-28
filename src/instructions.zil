@@ -24,7 +24,7 @@
     <CRLF>
     <REPEAT ()
         <CRLF>
-        <TELL "Begin your mission now?">
+        <TELL "Begin your mission now or learn more about the time to which you will be traveling?">
         <COND (<YES?>
             <EMPHASIZE "TIME TRAVEL ACTIVATED">
             <RETURN>
