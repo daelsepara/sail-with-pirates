@@ -32,19 +32,19 @@
         STORY008
         STORY014
         STORY015
-        STORY021
-        STORY028
-        STORY037
-        STORY047
-        STORY056
+        STORY019
+        STORY026
+        STORY036
+        STORY046
+        STORY052
         STORY064
-        STORY069
-        STORY078
-        STORY080
-        STORY089
-        STORY092
-        STORY094
-        STORY103
+        STORY066
+        STORY075
+        STORY079
+        STORY086
+        STORY090
+        STORY093
+        STORY101
     >>
 
 <ROUTINE DATA-FILE (STORY "AUX" ITEMS)
