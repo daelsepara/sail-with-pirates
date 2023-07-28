@@ -29,9 +29,9 @@
 
 <CONSTANT DATA-FILES-INDEX
     <LTABLE
-        STORY010
+        STORY008
         STORY014
-        STORY018
+        STORY015
         STORY021
         STORY028
         STORY037
