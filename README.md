@@ -8,7 +8,8 @@ This is a ZIL Implementation of Sail With Pirates game book (Time Machine) by Ji
 | |*Cover painting by Dave Stevens|
 |**Equipment**||
 |Sailor's clothes|![Sailor's clohes](/images/equipment.jpg)|
-|**MAPS**|![Map 01](/images/map01.jpg)|
+|**MAPS**||
+| |![Map 01](/images/map01.jpg)|
 | |![Map 02](/images/map02.jpg)|
 | |![Map 03](/images/map03.jpg)|
 
