@@ -7,7 +7,8 @@ This is a ZIL Implementation of Sail With Pirates game book (Time Machine) by Ji
 | |ARE YOU READY TO FACE THE DANGER?|
 | |*Cover painting by Dave Stevens|
 | |                            |
-|![Sailor's clohes](/images/equipment.jpg)|*Equiment: sailor's clothes*|
+| |*Equiment: sailor's clothes*|
+||![Sailor's clohes](/images/equipment.jpg)|
 | |                            |
 | |*MAPS*|
 | |![Map 01](/images/map01.jpg)|
