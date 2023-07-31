@@ -32,7 +32,7 @@
 	(FLAGS LIGHTBIT)>
 
 <ROUTINE STORY004-PRECHOICE ()
-	<EMPHASIZE "To Hava vamos!">>
+	<EMPHASIZE "To Havana vamos!">>
 
 <CONSTANT TEXT007 "You decide it would be fun to be a pirate. You go to sleep in your hammock without saying anything to Phips.||You dream that a snake is wrapping its coils around you, squeez- ing tighter and tighter.||\"Aha!\" someone shouts, waking you up. It's Captain Phips. He's found out about the mutiny! You try to jump to your feet, but you can't. There's a rope tied tight around your hammock! Most of the sailors are tied up the same way.||\"Now what have we here?\" Phips says, striding around the room. \"A group of mutinous moths, all wrapped up in their own cocoons! Fishes like to eat moths. Maybe I'll feed you to them!\" He stalks out, followed by a few loyal sailors.||This wasn't so smart. You know Phips found the treasure, so the mutiny couldn't have succeeded. How could joining these greedy mutineers have helped you, anyway?||Your hammock swings in a dark corner. No one would notice if you jumped back in time. Better try again.">
 
