@@ -6,6 +6,13 @@ This is a ZIL Implementation of Sail With Pirates game book (Time Machine) by Ji
 |![Cover Art](/images/sail-with-pirates.jpg)|**IT IS THE YEAR 1684.**<br><br>*You have traveled back to the age of pirates.*<br><br>You are stading face-to-face with a pirate captain. He offers you a choice: *join his crew or die.*<br><br>You can sign the parchment and become a pirate or attempt to escape before he can catch you. Your decision may lead you to safty or leave you stranded in time!|
 | |ARE YOU READY TO FACE THE DANGER?|
 | |*Cover painting by Dave Stevens|
+| |                            |
+|![Sailor's clohes](/images/equipment.jpg)|*Equiment: sailor's clothes*|
+| |                            |
+| |*MAPS*|
+| |![Map 01](/images/map01.jpg)|
+| |![Map 02](/images/map02.jpg)|
+| |![Map 03](/images/map03.jpg)|
 
 ## Additional Copyright Information
 
